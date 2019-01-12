@@ -1,2 +1,4 @@
 # PuroSwing-Pendule
-Módulo pendulé de la exposición Puro Swing
+Módulo pendulé de la exposición puro Swing
+
+Actualizado para el nuevo motor de más potencia
