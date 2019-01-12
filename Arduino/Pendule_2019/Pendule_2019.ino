@@ -1,7 +1,7 @@
 /*
 SKETCH PARA MODULO PENDULE DE LA EXPOSICION PURO SWING
 
-Disponible en GitHub: https://github.com/manolomira/PuroSwing-Pendule
+Disponible en GitHub: https://github.com/mc2-coruna/PuroSwing-Pendule
 
 Revision 12 de enero de 2019:
 .- Ajustado el valor de minimoPWM para adaptarse al nuevo motor
